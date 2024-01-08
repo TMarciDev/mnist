@@ -13,3 +13,5 @@ dependencies:
   - pip
   - pip:
     - matplotlib
+    - scikit-learn
+    - pandas
