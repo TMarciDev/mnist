@@ -10,4 +10,6 @@ pip install matplotlib
 
 ################
 conda env create -f environment.yml
+
+tensorboard --logdir=train_exp/runs
 ```
